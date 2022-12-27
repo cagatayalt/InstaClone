@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InstaClone</string>
+    <string name="insta">INSTA</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="enter_password">Enter Password</string>
+</resources>
